@@ -1,6 +1,5 @@
 # 30-Day Planner and Check List
-***
-- [ ] **Day 1**: Part 1 – Sections 1–4 (Intro + Disciplines + Connections + Benefits)  
+- [x] **Day 1**: Part 1 – Sections 1–4 (Intro + Disciplines + Connections + Benefits)  
 - [ ] **Day 2**: Part 1 – Sections 5–8 (Techniques, Tools, Careers, Misconceptions)  
 ***
 - [ ] **Day 3**: Part 2 – Sections 9–10 (Probability + Combinatorics)  

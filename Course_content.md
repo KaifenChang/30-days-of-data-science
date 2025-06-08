@@ -1,10 +1,10 @@
 # Course Content
-> This is the course content for the Data Science course via Udemy. 
-> **Course name**: The Data Science Course: Complete Data Science Bootcamp 2025
-> **Course link**: https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp
+> This is the course content for the Data Science course via Udemy. <br>
+> **Course name**: The Data Science Course: Complete Data Science Bootcamp 2025 <br>
+> **Course link**: https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp <br>
 
 I am a undergrad math student at University of Waterloo.
-My goal is to complete the course in **30 days**. I'll update some notes here without violate the copyright of the instructor.
+My goal is to complete the course in **30 days**. I'll update some notes in this repository without violate the copyright of the instructor.
 ***
 ### **Part 1: Introduction to Data Science**
 

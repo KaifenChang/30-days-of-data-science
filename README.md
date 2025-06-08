@@ -2,7 +2,7 @@
 
 Welcome to my personal **30-Day Data Science Challenge**, a self-directed journey to build strong foundations in data science, one day at a time.
 
-I'm a math major with a passion for problem-solving and analytics. With this challenge, I aim to **transition from theory to real-world application**, and seeking a **more concise direction** as a math student. also building consistent habits and tracking my progress in public.
+I'm a undergrad math student with a passion for problem-solving and analytics. With this challenge, I aim to **transition from theory to real-world application**, and seeking a **more concise direction** as a math student. also building consistent habits and tracking my progress in public.
 
 ---
 
@@ -31,13 +31,12 @@ I'm a math major with a passion for problem-solving and analytics. With this cha
 
 ## Daily Log
 
-| Day | Date  | Task(s) Completed | Notes / Reflections |
-| --- | ----- | ----------------- | ------------------- |
-| 1   | MM/DD | ...               | ...                 |
-| 2   | MM/DD | ...               | ...                 |
-| ... | ...   | ...               | ...                 |
+| Day | Date  | Section(s) Completed | About | Notes |
+| --- | ----- | ----------------- | ------------------- | ------------------- |
+| 1   | 6/7 | Section 1-4               | Introduction, mostly discussing the difference between terms and roles such as BI, DS, DA, ML, etc.                 | [Notes](Notes/1_Introduction/sec1-8.md) |
 
-> I update this section daily to keep myself accountable.
+
+> Updating this section daily to keep myself accountable.
 > more details in [30_day_planner.md](30_day_planner.md)
 
 
