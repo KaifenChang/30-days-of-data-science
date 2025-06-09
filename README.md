@@ -33,11 +33,13 @@ I'm a undergrad math student with a passion for problem-solving and analytics. W
 
 | Day | Date  | Section(s) Completed | About | Notes |
 | --- | ----- | ----------------- | ------------------- | ------------------- |
-| 1   | 6/7 | Section 1-4               | Introduction, mostly discussing the difference between terms and roles such as BI, DS, DA, ML, etc.                 | [Notes](Notes/1_Introduction/sec1-8.md) |
+| 1   | 6/7 | Section 1-4 (Intro)              | Introduction, mostly discussing the difference between terms and roles such as BI, DS, DA, ML, etc.                 | [Notes](Notes/1_Introduction/sec1-8.md) |
+|2   | 6/8 | Section 5-8 (Intro)             | Some detail of the terms         | [Notes](Notes/1_Introduction/sec1-8.md) |
 
 
 > Updating this section daily to keep myself accountable.
-> more details in [30_day_planner.md](30_day_planner.md)
+> More details in [30_day_planner.md](30_day_planner.md) and [Course_content.md](Course_content.md)
+> The [notes](Notes) will be updated but not the full course content. It would be only the notes that is new or is a good idea for me.
 
 
 ---

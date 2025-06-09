@@ -219,3 +219,13 @@ $RECYCLE.BIN/
 *.tds
 *.tdsx
 *.hyper 
+
+*.pdf
+*.jpg
+*.png
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.ico
+*.webp
