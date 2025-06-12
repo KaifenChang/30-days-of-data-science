@@ -8,8 +8,8 @@
 - [x] **Day 2**: Part 1 – Sections 5–8 (Techniques, Tools, Careers, Misconceptions)  
 ***
 ### Part 2: Probability
-- [ ] **Day 3**: Part 2 – Sections 9–10 (Probability + Combinatorics)  
-- [ ] **Day 4**: Part 2 – Section 11 (Bayesian Inference)  
+- [x] **Day 3**: Part 2 – Sections 9 (Probability)  
+- [ ] **Day 4**: Part 2 – Section 10-11 (Combinatorics + Bayesian Inference)  
 - [ ] **Day 5**: Part 2 – Sections 12–13 (Distributions + Applications)  
 ***
 ### Part 3: Statistics

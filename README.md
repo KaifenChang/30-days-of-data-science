@@ -35,6 +35,7 @@ I'm a undergrad math student with a passion for problem-solving and analytics. W
 | --- | ----- | ----------------- | ------------------- | ------------------- |
 | 1   | 6/7 | Section 1-4 (Intro)              | Introduction, mostly discussing the difference between terms and roles such as BI, DS, DA, ML, etc.                 | [Notes](Notes/1_Introduction/sec1-8.md) |
 |2   | 6/8 | Section 5-8 (Intro)             | Some detail of the terms         | [Notes](Notes/1_Introduction/sec1-8.md) |
+|3  | 6/11 | Section 9 (Probability)             | Really basic idea of probability          | |
 
 
 > Updating this section daily to keep myself accountable.
