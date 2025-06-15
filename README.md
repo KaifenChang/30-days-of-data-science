@@ -16,9 +16,9 @@ I'm a undergrad math student with a passion for problem-solving and analytics. W
 | Days  | Part                    | Topics                       |
 | ----- | ----------------------- | ------------------------------------------ |
 | 1–2   | Part 1: Introduction    | DS overview, disciplines, tools, careers   |
-| 3–5   | Part 2: Probability     | Combinatorics, Bayes, distributions        |
-| 6–8   | Part 3: Statistics      | Descriptive, inference, hypothesis testing |
-| 9–12  | Part 4: Python Basics   | Syntax, functions, loops, advanced tools   |
+| 3–6   | Part 2: Probability     | Combinatorics, Bayes, distributions        |
+| 7–9   | Part 3: Statistics      | Descriptive, inference, hypothesis testing |
+| 10–12  | Part 4: Python Basics   | Syntax, functions, loops, advanced tools   |
 | 13–18 | Part 5: Stats in Python | Regression, clustering, review             |
 | 19–20 | ChatGPT + Case          | ChatGPT + Naive Bayes                      |
 | 21    | Part 6: Math Review     | Concept recap                              |
@@ -36,6 +36,7 @@ I'm a undergrad math student with a passion for problem-solving and analytics. W
 | 1   | 6/7 | Section 1-4 (Intro)              | Introduction, mostly discussing the difference between terms and roles such as BI, DS, DA, ML, etc.                 | [Notes](Notes/1_Introduction/sec1-8.md) |
 |2   | 6/8 | Section 5-8 (Intro)             | Some detail of the terms         | [Notes](Notes/1_Introduction/sec1-8.md) |
 |3  | 6/11 | Section 9 (Probability)             | Really basic idea of probability          | |
+|4  | 6/14 | Section 10 (Combinatorics)             | Combinatorics          | [Notes](Notes/2_Probaility(9-13).md) |
 
 
 > Updating this section daily to keep myself accountable.

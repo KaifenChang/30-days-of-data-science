@@ -9,17 +9,17 @@
 ***
 ### Part 2: Probability
 - [x] **Day 3**: Part 2 – Sections 9 (Probability)  
-- [ ] **Day 4**: Part 2 – Section 10-11 (Combinatorics + Bayesian Inference)  
-- [ ] **Day 5**: Part 2 – Sections 12–13 (Distributions + Applications)  
+- [x] **Day 4**: Part 2 – Sections 10 (Combinatorics)  
+- [ ] **Day 5**: Part 2 – Sections 11 (Bayesian Inference)
+- [ ] **Day 6**: Part 2 – Sections 12–13 (Distributions + Applications)  
 ***
 ### Part 3: Statistics
-- [ ] **Day 6**: Part 3 – Sections 15–16 (Descriptive Stats + Practical)  
-- [ ] **Day 7**: Part 3 – Sections 17–18 (Inferential + Confidence Intervals)  
-- [ ] **Day 8**: Part 3 – Sections 19–21 (Inference Practice + Hypothesis Testing)  
+- [ ] **Day 7**: Part 3 – Sections 15–16 (Descriptive Stats + Practical)  
+- [ ] **Day 8**: Part 3 – Sections 17–18 (Inferential + Confidence Intervals)  
+- [ ] **Day 9**: Part 3 – Sections 19–21 (Inference Practice + Hypothesis Testing)  
 ***
 ### Part 4: Python Basics
-- [ ] **Day 9**: Part 4 – Sections 22–24 (Python Basics: Syntax, Variables)  
-- [ ] **Day 10**: Part 4 – Sections 25–26 (Operators + Conditionals)  
+- [ ] **Day 10**: Part 4 – Sections 22–26 (Python Basics)  
 - [ ] **Day 11**: Part 4 – Sections 27–28 (Functions + Sequences)  
 - [ ] **Day 12**: Part 4 – Sections 29–30 (Loops + Advanced Tools)  
 ***             
