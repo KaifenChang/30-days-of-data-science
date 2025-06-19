@@ -10,7 +10,7 @@
 ### Part 2: Probability
 - [x] **Day 3**: Part 2 – Sections 9 (Probability)  
 - [x] **Day 4**: Part 2 – Sections 10 (Combinatorics)  
-- [ ] **Day 5**: Part 2 – Sections 11 (Bayesian Inference)
+- [x] **Day 5**: Part 2 – Sections 11 (Bayesian Inference)
 - [ ] **Day 6**: Part 2 – Sections 12–13 (Distributions + Applications)  
 ***
 ### Part 3: Statistics
