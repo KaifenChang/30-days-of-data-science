@@ -2,6 +2,7 @@
 ## Table of Contents
 - [Section 10: Combinatorics](#section-10-combinatorics)
 - [Section 11: Bayesian Inference](#section-11-bayesian-inference)
+- [Section 12: Distributions](#section-12-distributions)
 ***
 ### Section 10: Combinatorics
 
@@ -35,8 +36,31 @@ This section is covering the main probabilities formulas then the Bayer's theore
 | Multiplicative Rule | $P(A \cap B) = P(A) \times P(B\|A)$ <br> $P(A \cap B \cap C) = P(A) \times P(B\|A) \times P(C\|A \cap B)$ |
 | Bayes' Theorem | $P(A\|B) = \frac{P(B\|A) \times P(A)}{P(B)}$ |
 
+### Sectin 12: Distributions
 
+Distribution: the possible value a varaibale can take and how frequently it occurs.
 
+#### Discrete Distributions
+For finite number of possible outcomes
+
+| Distribution | Notation | Notes |
+|--------------|----------|-------------|
+| Uniform | U(a,b) | all values are equally likely <br> μ and σ² are not interpretable <br> \(\rightarrow\) no predictive
+| Bernoulli | B(p) | 1 success, 0 failure 
+| Binomial | B(n,p) | n independent trials, each with success probability p 
+| Poisson | P(λ) | λ = frequency of events
+
+#### Continuous Distributions
+For infinite number of possible outcomes
+
+| Distribution | Notation | Notes |
+|--------------|----------|-------------|
+|Normal|N(μ,σ²)|μ = mean, σ² = variance <br> observed in nature 
+|Standard normal|N(0,1)|μ = 0, σ² = 1 <br> standardized version of normal distribution
+|Student T|T(k)|k = degrees of freedom <br> for small sample size
+|Chi-squared|χ²(k)|k = degrees of freedom <br> for hypothesis testing and CI
+|Exponential|E(λ)|λ = frequency of events <br> e.g. views on youtube
+|Logistic|L(μ,s)|μ = mean, s = scale <br> the scale parameter determines the spread of the distribution
 
 
 
