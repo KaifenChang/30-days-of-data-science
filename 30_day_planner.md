@@ -14,9 +14,9 @@
 - [x] **Day 6**: Part 2 – Sections 12–13 (Distributions + Applications)  
 ***
 ### Part 3: Statistics
-- [ ] **Day 7**: Part 3 – Sections 15–16 (Descriptive Stats + Practical)  
-- [ ] **Day 8**: Part 3 – Sections 17–18 (Inferential + Confidence Intervals)  
-- [ ] **Day 9**: Part 3 – Sections 19–21 (Inference Practice + Hypothesis Testing)  
+- [x] **Day 7**: Part 3 – Sections 15–16 (Descriptive Stats + Practical)  
+- [ ] **Day 8**: Part 3 – Sections 17–19 (Inferential + Confidence Intervals)  
+- [ ] **Day 9**: Part 3 – Sections 20–21 (Hypothesis Testing)  
 ***
 ### Part 4: Python Basics
 - [ ] **Day 10**: Part 4 – Sections 22–26 (Python Basics)  

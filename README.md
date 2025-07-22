@@ -39,6 +39,7 @@ I'm a undergrad math student with a passion for problem-solving and analytics. W
 |4  | 6/14 | Section 10 (Combinatorics)             | Combinatorics          | [Notes](Notes/2_Probaility(9-13).md) |
 |5  | 6/18 | Section 11 (Bayesian Inference)             | Bayesian Inference          | [Notes](Notes/2_Probaility(9-13).md) |
 |6  | 7/21 | Section 12-13 (Distributions + Applications)             | Distributions          | [Notes](Notes/2_Probaility(9-13).md) |
+|7  | 7/22 | Section 15-16 (Descriptive Stats + Practical)             | Descriptive Stats          | [Notes](Notes/3_Statistics(15-19).md) |
 
 > Updating this section daily to keep myself accountable.
 > More details in [30_day_planner.md](30_day_planner.md) and [Course_content.md](Course_content.md)
